@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "projetos",
+			"path": "../projetos"
+		},
+		{
+			"name": "home",
+			"path": "."
+		},
+		{
+			"name": "creditos",
+			"path": "../creditos"
+		},
+		{
+			"name": "New York Times",
+			"path": "../New York Times"
+		}
+	]
+}
